@@ -16,6 +16,10 @@ A técnica usada (reconhecimento visual via `pyautogui.locateOnScreen`) é espec
 4. Para cada produto, preenche automaticamente todos os campos do formulário: ID, nome, categoria, GTIN, fornecedor, descrição, preço, custo e estoque
 5. Localiza e seleciona a imagem correspondente ao produto
 6. Salva o cadastro e repete o processo até o fim da planilha
+
+## 💻 Demonstração
+![Demonstração](demo.gif)
+
 ## 🛠️ Tecnologias utilizadas
  
 - **Python**
@@ -47,7 +51,7 @@ A técnica usada (reconhecimento visual via `pyautogui.locateOnScreen`) é espec
 3. Ajuste o caminho do executável do ERP e da planilha `Produtos.xlsx` conforme seu ambiente
 4. Execute o notebook `main.ipynb`
 > ⚠️ Por usar reconhecimento de imagem, a resolução de tela e o layout do ERP precisam ser os mesmos usados nas imagens de referência do repositório.
->
-> ## 👤 Autor
+
+## 👤 Autor
 **Vinicius Cavalcanti Vilela Lins**  
 [LinkedIn](https://linkedin.com/in/vinicius-cavalcanti-si) · viniciuscavalcanti.dev@gmail.com · [GitHub](https://github.com/ViniciusCavalcanti-03)
