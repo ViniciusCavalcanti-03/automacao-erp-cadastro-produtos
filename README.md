@@ -50,6 +50,4 @@ A técnica usada (reconhecimento visual via `pyautogui.locateOnScreen`) é espec
 >
 > ## 👤 Autor
 **Vinicius Cavalcanti Vilela Lins**  
-[LinkedIn](https://linkedin.com/in/vinicius-cavalcanti-si) |
-[GitHub](https://github.com/ViniciusCavalcanti-03) | 
-[E-mail](https://mail.google.com/mail/?view=cm&fs=1&to=viniciuscavalcanti.dev@gmail.com)
+[LinkedIn](https://linkedin.com/in/vinicius-cavalcanti-si) · viniciuscavalcanti.dev@gmail.com · [GitHub](https://github.com/ViniciusCavalcanti-03)
